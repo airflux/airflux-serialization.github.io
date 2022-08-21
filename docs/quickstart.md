@@ -1,6 +1,6 @@
 # Quickstart
 
-## Reading
+## Reading from JSON
 
 ### JSON
 
